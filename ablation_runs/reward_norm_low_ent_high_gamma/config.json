@@ -1,0 +1,11 @@
+{
+  "ent_coef": 0.0001,
+  "use_sde": true,
+  "clip_range": 0.25,
+  "gae_lambda": 0.9,
+  "gamma": 0.995,
+  "norm_reward": true,
+  "continued_from": "reward_norm",
+  "additional_timesteps": 5000000,
+  "total_timesteps": 7000000
+}

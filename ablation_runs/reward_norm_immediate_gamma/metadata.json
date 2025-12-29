@@ -1,0 +1,11 @@
+{
+  "base_run": "reward_norm_continued",
+  "parameter_changes": {
+    "parameter": "gamma",
+    "original_value": 0.99,
+    "new_value": 0.995,
+    "change_type": "immediate"
+  },
+  "additional_timesteps": 2000000,
+  "total_timesteps": 5635232
+}

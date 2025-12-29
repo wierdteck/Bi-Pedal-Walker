@@ -1,0 +1,8 @@
+{
+  "experiment": "adaptive_entropy",
+  "base_run": "reward_norm_continued",
+  "start_ent_coef": 0.002,
+  "end_ent_coef": 0.001,
+  "additional_timesteps": 2000000,
+  "total_timesteps": 5635232
+}

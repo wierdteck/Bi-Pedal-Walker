@@ -1,0 +1,13 @@
+run,ent_coef,use_sde,clip_range,gae_lambda,gamma,norm_reward
+baseline,0.002,True,0.25,0.9,0.99,False
+no_sde,0.002,False,0.25,0.9,0.99,False
+low_clip,0.002,True,0.1,0.9,0.99,False
+high_clip,0.002,True,0.35,0.9,0.99,False
+high_gae,0.002,True,0.25,0.97,0.99,False
+low_gae,0.002,True,0.25,0.8,0.99,False
+high_entropy,0.01,True,0.25,0.9,0.99,False
+low_entropy,0.0001,True,0.25,0.9,0.99,False
+high_gamma,0.002,True,0.25,0.9,0.995,False
+low_gamma,0.002,True,0.25,0.9,0.98,False
+reward_norm,0.002,True,0.25,0.9,0.99,True
+combined_best,0.01,True,0.25,0.97,0.995,True

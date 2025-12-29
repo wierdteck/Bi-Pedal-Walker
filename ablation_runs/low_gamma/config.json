@@ -1,0 +1,8 @@
+{
+  "ent_coef": 0.002,
+  "use_sde": true,
+  "clip_range": 0.25,
+  "gae_lambda": 0.9,
+  "gamma": 0.98,
+  "norm_reward": false
+}
