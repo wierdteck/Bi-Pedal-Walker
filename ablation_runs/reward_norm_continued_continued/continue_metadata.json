@@ -1,0 +1,7 @@
+{
+  "original_run": "reward_norm_continued",
+  "original_timesteps": 3630624,
+  "additional_timesteps": 10000000,
+  "total_timesteps": 13630624,
+  "continued_from": "best_model"
+}
