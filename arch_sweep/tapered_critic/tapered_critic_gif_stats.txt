@@ -1,0 +1,7 @@
+Architecture: tapered_critic
+Episodes recorded: 3
+Episode rewards: [-130.8433956936351, -42.90577688947087, -113.16493494668975]
+Mean reward: -95.64
+Std reward: 37.98
+Min reward: -130.84
+Max reward: -42.91

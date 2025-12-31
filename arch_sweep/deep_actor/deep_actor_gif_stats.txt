@@ -1,0 +1,7 @@
+Architecture: deep_actor
+Episodes recorded: 3
+Episode rewards: [1.5825832270784304, 6.622066047668341, -16.075095640320797]
+Mean reward: -2.62
+Std reward: 9.73
+Min reward: -16.08
+Max reward: 6.62

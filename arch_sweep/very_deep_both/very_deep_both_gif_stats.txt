@@ -1,0 +1,7 @@
+Architecture: very_deep_both
+Episodes recorded: 3
+Episode rewards: [0.4090497291472275, -0.10012359575193841, -3.45590190537132]
+Mean reward: -1.05
+Std reward: 1.71
+Min reward: -3.46
+Max reward: 0.41

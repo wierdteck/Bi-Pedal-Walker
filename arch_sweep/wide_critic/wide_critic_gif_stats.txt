@@ -1,0 +1,7 @@
+Architecture: wide_critic
+Episodes recorded: 3
+Episode rewards: [4.286978753723815, -45.736885520716896, 34.02825739803484]
+Mean reward: -2.47
+Std reward: 32.91
+Min reward: -45.74
+Max reward: 34.03

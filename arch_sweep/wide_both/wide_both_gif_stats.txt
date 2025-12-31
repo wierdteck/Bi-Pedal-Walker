@@ -1,0 +1,7 @@
+Architecture: wide_both
+Episodes recorded: 3
+Episode rewards: [70.71070510704885, -92.97904393917997, -195.7391470936127]
+Mean reward: -72.67
+Std reward: 109.72
+Min reward: -195.74
+Max reward: 70.71

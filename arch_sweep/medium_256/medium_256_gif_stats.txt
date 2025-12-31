@@ -1,0 +1,7 @@
+Architecture: medium_256
+Episodes recorded: 3
+Episode rewards: [158.7048625877942, 10.54215780562663, 17.89662084809288]
+Mean reward: 62.38
+Std reward: 68.18
+Min reward: 10.54
+Max reward: 158.70

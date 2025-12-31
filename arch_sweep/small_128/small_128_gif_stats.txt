@@ -1,0 +1,7 @@
+Architecture: small_128
+Episodes recorded: 3
+Episode rewards: [52.01419391176023, -55.53687772870762, 19.986923276393554]
+Mean reward: 5.49
+Std reward: 45.09
+Min reward: -55.54
+Max reward: 52.01

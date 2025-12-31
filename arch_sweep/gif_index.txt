@@ -1,0 +1,56 @@
+======================================================================
+GIF Index - Sorted by Performance
+======================================================================
+
+1. medium_256
+   Mean Reward: 62.38
+   GIF: ./arch_sweep/medium_256\medium_256_performance.gif
+
+2. small_128
+   Mean Reward: 5.49
+   GIF: ./arch_sweep/small_128\small_128_performance.gif
+
+3. very_deep_both
+   Mean Reward: -1.05
+   GIF: ./arch_sweep/very_deep_both\very_deep_both_performance.gif
+
+4. wide_critic
+   Mean Reward: -2.47
+   GIF: ./arch_sweep/wide_critic\wide_critic_performance.gif
+
+5. deep_actor
+   Mean Reward: -2.62
+   GIF: ./arch_sweep/deep_actor\deep_actor_performance.gif
+
+6. tapered_actor
+   Mean Reward: -37.55
+   GIF: ./arch_sweep/tapered_actor\tapered_actor_performance.gif
+
+7. actor_heavy
+   Mean Reward: -57.37
+   GIF: ./arch_sweep/actor_heavy\actor_heavy_performance.gif
+
+8. wide_both
+   Mean Reward: -72.67
+   GIF: ./arch_sweep/wide_both\wide_both_performance.gif
+
+9. small_actor_large_critic
+   Mean Reward: -76.04
+   GIF: ./arch_sweep/small_actor_large_critic\small_actor_large_critic_performance.gif
+
+10. tapered_critic
+   Mean Reward: -95.64
+   GIF: ./arch_sweep/tapered_critic\tapered_critic_performance.gif
+
+11. deep_critic
+   Mean Reward: -96.86
+   GIF: ./arch_sweep/deep_critic\deep_critic_performance.gif
+
+12. large_actor_small_critic
+   Mean Reward: -118.48
+   GIF: ./arch_sweep/large_actor_small_critic\large_actor_small_critic_performance.gif
+
+13. critic_heavy
+   Mean Reward: -171.22
+   GIF: ./arch_sweep/critic_heavy\critic_heavy_performance.gif
+

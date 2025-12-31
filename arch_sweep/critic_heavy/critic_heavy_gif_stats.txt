@@ -1,0 +1,7 @@
+Architecture: critic_heavy
+Episodes recorded: 3
+Episode rewards: [-171.3700160086155, -171.1372878961265, -171.13917930796742]
+Mean reward: -171.22
+Std reward: 0.11
+Min reward: -171.37
+Max reward: -171.14

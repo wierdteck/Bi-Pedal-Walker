@@ -1,0 +1,7 @@
+Architecture: small_actor_large_critic
+Episodes recorded: 3
+Episode rewards: [-75.97621425718535, -76.26137239162927, -75.88642384472769]
+Mean reward: -76.04
+Std reward: 0.16
+Min reward: -76.26
+Max reward: -75.89

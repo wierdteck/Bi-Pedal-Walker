@@ -1,0 +1,7 @@
+Architecture: tapered_actor
+Episodes recorded: 3
+Episode rewards: [50.7793005877611, -37.64168481204251, -125.80217832024209]
+Mean reward: -37.55
+Std reward: 72.09
+Min reward: -125.80
+Max reward: 50.78

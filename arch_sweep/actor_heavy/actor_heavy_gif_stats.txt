@@ -1,0 +1,7 @@
+Architecture: actor_heavy
+Episodes recorded: 3
+Episode rewards: [-2.944092000820092, -49.08525802294025, -120.09419050370343]
+Mean reward: -57.37
+Std reward: 48.18
+Min reward: -120.09
+Max reward: -2.94

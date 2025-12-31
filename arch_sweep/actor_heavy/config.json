@@ -1,0 +1,14 @@
+{
+  "architecture": {
+    "pi": [
+      256,
+      256,
+      128
+    ],
+    "vf": [
+      256,
+      256
+    ]
+  },
+  "reward_norm": true
+}

@@ -1,0 +1,7 @@
+Architecture: deep_critic
+Episodes recorded: 3
+Episode rewards: [-97.85897756926715, -95.51085710059851, -97.20910657197237]
+Mean reward: -96.86
+Std reward: 0.99
+Min reward: -97.86
+Max reward: -95.51
