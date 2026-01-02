@@ -1,0 +1,38 @@
+{
+  "initial_model": "arch_sweep/medium_256/continued_training/best_model/best_model.zip",
+  "initial_timesteps": 10840000,
+  "additional_timesteps": 10000000,
+  "total_timesteps": 20850624,
+  "architecture": "medium_256",
+  "config": {
+    "pi": [
+      256,
+      256
+    ],
+    "vf": [
+      256,
+      256
+    ]
+  },
+  "environment_seeds": {
+    "training_seeds": [
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49
+    ],
+    "eval_seeds": [
+      1042,
+      1043,
+      1044,
+      1045,
+      1046
+    ],
+    "n_training_envs": 8,
+    "n_eval_envs": 5
+  }
+}
