@@ -1,0 +1,7 @@
+{
+  "env": "BipedalWalkerHardcore-v3",
+  "total_timesteps": 60000000,
+  "seed": 42,
+  "n_envs": 8,
+  "device": "cpu"
+}
