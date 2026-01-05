@@ -28,6 +28,7 @@ if __name__ == "__main__":
         # Gymnasium + Box2D environments (REQUIRED for BipedalWalker)
         "gymnasium[box2d]",
         "box2d-py",
+        "ipywidgets",
 
         "stable-baselines3[extra]"
     ]
