@@ -1,8 +1,0 @@
-{
-  "experiment": "adaptive_gamma",
-  "base_run": "reward_norm_continued",
-  "start_gamma": 0.99,
-  "end_gamma": 0.995,
-  "additional_timesteps": 2000000,
-  "total_timesteps": 5635232
-}
